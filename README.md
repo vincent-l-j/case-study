@@ -12,16 +12,6 @@
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
 The plan for Celsius Network was drawn up on a coffee shop napkin in 2017 by its founders, Alex Mashinsky and Daniel Leon.
 [^1]
 Celsius CEO, Alex Mashinsky has founded eight startups and several multi-billion-dollar businesses including Arbinet, Transit Wireless and GroundLink.

@@ -1,5 +1,4 @@
-# case-study
-# TITLE
+# Celsius Network
 
 <!--
 #### Company Information and Business Activities  (25 points)

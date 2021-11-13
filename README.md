@@ -24,7 +24,7 @@ Celsius' mission statement is: "To put unparalleled economic freedom in the hand
 Celsius held their initial coin offering (ICO) of their CEL token back in 2018 and raised $50 million.
 [^5]
 
-## Business Activities:
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 

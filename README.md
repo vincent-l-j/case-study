@@ -28,7 +28,36 @@ Celsius held their initial coin offering (ICO) of their CEL token back in 2018 a
 
 * What specific financial problem is the company or project trying to solve?
 
+Most banks typically make between 14-25% return on their capital, so by paying customers 1% in interest, they’re keeping over 80% of the profits and distributing these earnings to their shareholders, usually in the form of dividends and share buyback.
+[^6]
+The Celsius business model is structured to do the exact opposite of what banks do - by giving 80% of total revenue back to their community each week in the form of earned interest.
+
+Celsius Network serves as a wallet platform to deposit crypto assets, earn interest, and borrow 1% cash loans.
+[^7]
+By depositing crypto assets with Celsius, users can earn up to 17% yield on said assets, paid weekly.
+
+Celsius' main sources of income include:
+- Institutional lending
+[^8]
+[What We Do & How We Do It. The Celsius business model, explained. | by Celsius | Medium](https://blog.celsius.network/what-we-do-how-we-do-it-9a82124f7159)
+- Providing liquidity to exchanges
+[^9]
+[^2]
+Celsius-whitepaper
+- Retail lending
+[^10]
+[^8]
+What We Do & How We Do It. The Celsius business model, explained. | by Celsius | Medium
+- DeFi staking
+[^11]
+[Alex Mashinsky, Celsius CEO, interview:  Is Crypto Lending & Borrowing a good idea? Find out!](https://youtu.be/XUu3WcfssmE?t=579)
+- Mining BTC
+[^12]
+[Celsius invests over $200m in Bitcoin mining in North America (prnewswire.com)](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html)
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+The Celsius' intended customers are both individual retail investors and institutional investors.
+However, they also serve  as part of their normal business opertions.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -101,3 +130,6 @@ Celsius held their initial coin offering (ICO) of their CEL token back in 2018 a
 [^3]: [S. Daniel Leon | LinkedIn](https://www.linkedin.com/in/sdanielleon/)
 [^4]: [The Mission and Values of Celsius Network](https://blog.celsius.network/the-mission-and-values-of-celsius-network-b5715732dc7)
 [^5]: [How Celsius Turned Its Crypto ICO Into a Billion-Dollar Lending Business](https://www.coindesk.com/markets/2019/09/07/how-celsius-turned-its-crypto-ico-into-a-billion-dollar-lending-business/)
+[^6]: [Celsius Network Interest Rates, Explained](https://blog.celsius.network/celsius-network-interest-rates-explained-a336a52e163d)
+[^7]: [Celsius | Unbank Yourself](https://celsius.network/)
+[^8]: [What We Do & How We Do It. The Celsius business model, explained](https://blog.celsius.network/what-we-do-how-we-do-it-9a82124f7159)

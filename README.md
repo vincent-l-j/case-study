@@ -26,11 +26,10 @@ Celsius held their initial coin offering (ICO) of their CEL token back in 2018 a
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
-
 Most banks typically make between 14-25% return on their capital, so by paying customers 1% in interest, they’re keeping over 80% of the profits and distributing these earnings to their shareholders, usually in the form of dividends and share buyback.
 [^6]
 The Celsius business model is structured to do the exact opposite of what banks do - by giving 80% of total revenue back to their community each week in the form of earned interest.
+This effectively gives users similar privileges to shareholders.
 
 Celsius Network serves as a wallet platform to deposit crypto assets, earn interest, and borrow 1% cash loans.
 [^7]
@@ -39,29 +38,29 @@ By depositing crypto assets with Celsius, users can earn up to 17% yield on said
 Celsius' main sources of income include:
 - Institutional lending
 [^8]
-[What We Do & How We Do It. The Celsius business model, explained. | by Celsius | Medium](https://blog.celsius.network/what-we-do-how-we-do-it-9a82124f7159)
 - Providing liquidity to exchanges
-[^9]
 [^2]
-Celsius-whitepaper
 - Retail lending
-[^10]
 [^8]
-What We Do & How We Do It. The Celsius business model, explained. | by Celsius | Medium
 - DeFi staking
-[^11]
-[Alex Mashinsky, Celsius CEO, interview:  Is Crypto Lending & Borrowing a good idea? Find out!](https://youtu.be/XUu3WcfssmE?t=579)
+[^9]
 - Mining BTC
-[^12]
-[Celsius invests over $200m in Bitcoin mining in North America (prnewswire.com)](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html)
+[^10]
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-The Celsius' intended customers are both individual retail investors and institutional investors.
-However, they also serve  as part of their normal business opertions.
+According to PointPay, the market for crypto loans, where bitcoin and stablecoins are pledged as collateral, is estimated at approximately $ 30-35 billion in 2021.
+[^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
+With over 1 million users and over $27.5 billion assets under management, Celsius' intended customers include both individual retail investors and institutional investors.
+[^7]
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Celsius offers competitively high interest rate to users, allowing over 10% interest on stable coins like USDC and USDT. Other companies like BlockFi and Nexo only offer less than 9% on stable coins. Other interest rates can be seen below:
+![](image/defi-rate-2021-11-13.png)
+[^]
+<!-- https://defirate.com/lend/ -->
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+To ensure the security of its assets under management, Celsius Network uses Multi-Party Computation (MPC) through its custodian, Fireblocks, which also allows them to have insurance for funds stored in Hot wallets.
+[^]
+<!-- https://celsiushub.com/article/how-celsius-network-keeps-your-funds-safe-and-why-it-is-10x-better-than-any-other-company-in-crypto-1613407918502x661580604726575100 -->
+
 
 <!--
 #### FinTech Domain Trends (20 points)
@@ -133,3 +132,5 @@ However, they also serve  as part of their normal business opertions.
 [^6]: [Celsius Network Interest Rates, Explained](https://blog.celsius.network/celsius-network-interest-rates-explained-a336a52e163d)
 [^7]: [Celsius | Unbank Yourself](https://celsius.network/)
 [^8]: [What We Do & How We Do It. The Celsius business model, explained](https://blog.celsius.network/what-we-do-how-we-do-it-9a82124f7159)
+[^9]: [Alex Mashinsky, Celsius CEO, interview:  Is Crypto Lending & Borrowing a good idea? Find out!](https://youtu.be/XUu3WcfssmE?t=579)
+[^10]: [Celsius invests over $200m in Bitcoin mining in North America (prnewswire.com)](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html)

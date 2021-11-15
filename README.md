@@ -73,17 +73,26 @@ To ensure the security of its assets under management, Celsius Network uses Mult
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+According to The World Bank in 2019, loans to the private sector by banks around the world accounted for 90% of global GDP, and interest rates on deposits in the world have not increased for almost 10 years.
+[^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+The global crypto market cap recently reached $3 trillion, growing fivefold since November 2020, when it stood at $578 billion.
+Given that the first cryptocurrency, Bitcoin, was created just 12 years ago and traded at less than a cent at the time, the crypto market has exploded in the last decade.
+The Cambridge Center for Alternative Finance in 2020 estimates there to be at least 100 million cryptocurrency users in the world.
+As cryptocurrencies gain adoption, more people will look towards earning interest on their crypto assets.
+This has given rise to digital asset lending platforms (DALPs). Some of these DALPs include Celsius' major competitors, such as:
+- [BlockFi](https://blockfi.com/)
+- [Nexo](https://nexo.io/?v=t3)
+- [Crypto.com](https://crypto.com/au/)
 
-* What are the other major companies in this domain?
+<!-- Bitcoin was the first cryptocurrency and was only created in 2009. and was worth less than a cent. In 2011, its price reached $1 USD. Now, it trades at over $60,000 USD and many investors are expecting it to rise further. -->
 
 ## Results
 
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Unlike its competitors, Celsius users can make unlimited withdrawals and not pay any withdrawal, transfer, transaction, or early termination fees. This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
 
 * How is your company performing relative to competitors in the same domain?
 

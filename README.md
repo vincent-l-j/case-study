@@ -91,10 +91,22 @@ This has given rise to digital asset lending platforms (DALPs). Some of these DA
 
 * What has been the business impact of this company so far?
 
+Celsius aims to disrupt the traditional banking system and even has the slogan "Unbank yourself".
+[^2]
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-Unlike its competitors, Celsius users can make unlimited withdrawals and not pay any withdrawal, transfer, transaction, or early termination fees. This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
+Celsius users can make unlimited withdrawals and not pay any withdrawal, transfer, transaction, or early termination fees. This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
 
 * How is your company performing relative to competitors in the same domain?
+A comparison of Celsius and some of its major competitors can be seen below:
+
+| | [Celsius](https://celsius.network/) | [Nexo](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/) | [Crypto.com](https://coincentral.com/celsius-vs-crypto-com/) | [BlockFi](https://blockfi.com/) |
+| -- | -- | -- | -- | -- |
+| Withdrawal Fees | None | None | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function. | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, [applicable withdrawal fees](https://blockfi.com/fees/) will be applied. (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
+| Interest rates (stablecoins, earn in kind) | 10.02% | [10%](https://nexo.io/earn-crypto) | 6% - 14% depending on loyalty tier and amount of CRO staked | With the exception of Tether at 9.5%, all stablecoins receive 9% interest on all deposits under 40,000, and 8% on any amount above |
+| Interest rates (BTC) | 6.20% (<= 1 BTC) and 3.51% (> 1 BTC) | 6% APY | 1.5% - 8.5% depending on loyalty tier and amount of CRO staked | 4.5% in annual interest up to 0.1 BTC, 1% on any BTC between 0.1% and 0.35%, and 0.1% for 0.35 BTC and greater.
+| Insurance | Celsius keeps some user assets in third-party custodians, Fireblocks and PrimeTrust, but is also looking to implement an internal self-insurance feature | Insurance with industry-renowned custodians - such as BitGo and LedgerVault - in the event of third-party hacks, theft, or loss of private keys | [Use of LedgerVault for cold storage insurance against physical damage or destruction, and third-party theft](https://crypto.com/au/security) | BlockFi uses partner company Gemini as its custodial service, and Gemini has its own insurance for its deposits.
+| Promo deal | Earn $50 in BTC with your first transfer of $400 or more on Celsius. | Earn $25 in BTC with your first transfer of $100 or more on Nexo | Earn $25 USD worth of CRO after successfully reserving a Metal Crypto.com Visa Card (cheapest is $500 AUD) | Earn $15 in BTC with your first transfer of $100 or more on BlockFi
 
 <!--
 #### Recommendations (20 points)

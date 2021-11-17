@@ -139,6 +139,8 @@ A comparison of Celsius and some of its major competitors can be seen below:
 * The report style showcases the writer's expertise and builds credibility. (10 points)
 -->
 
+## References
+
 [^1]: [About Us | Celsius](https://celsius.network/about-us)
 [^2]: [Celsius Whitepaper](https://celsius.network/static/media/celsius-whitepaper.5f1941f3.pdf)
 [^3]: [S. Daniel Leon | LinkedIn](https://www.linkedin.com/in/sdanielleon/)

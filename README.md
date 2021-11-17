@@ -77,8 +77,10 @@ According to The World Bank in 2019, loans to the private sector by banks around
 [^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
 
 The global crypto market cap recently reached $3 trillion, growing fivefold since November 2020, when it stood at $578 billion.
+[^] <!-- https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/ -->
 Given that the first cryptocurrency, Bitcoin, was created just 12 years ago and traded at less than a cent at the time, the crypto market has exploded in the last decade.
 The Cambridge Center for Alternative Finance in 2020 established that there are at least 100 million cryptocurrency users in the world.
+[^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
 As cryptocurrencies gain adoption, more people will look towards earning interest on their crypto assets.
 This has given rise to digital asset lending platforms (DALPs). Some of these DALPs include Celsius' major competitors, such as:
 - [BlockFi](https://blockfi.com/)
@@ -94,7 +96,7 @@ A comparison of Celsius and some of its major competitors can be seen below:
 
 | | [Celsius](https://celsius.network/) | [Nexo](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/) | [Crypto.com](https://coincentral.com/celsius-vs-crypto-com/) | [BlockFi](https://blockfi.com/) |
 | -- | -- | -- | -- | -- |
-| Withdrawal Fees | Free | Free | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function. | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, [applicable withdrawal fees](https://blockfi.com/fees/) will be applied. (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
+| Withdrawal Fees | Free | Free | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function. | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, applicable withdrawal fees [^](https://blockfi.com/fees/) will be applied. (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
 | Interest rates (stablecoins, earn in kind) | 10.02% | [10%](https://nexo.io/earn-crypto) | 6% - 14% depending on loyalty tier and amount of CRO staked | With the exception of Tether at 9.5%, all stablecoins receive 9% interest on all deposits under 40,000, and 8% on any amount above |
 | Interest rates (BTC) | 6.20% (<= 1 BTC) and 3.51% (> 1 BTC) | 6% APY | 1.5% - 8.5% depending on loyalty tier and amount of CRO staked | 4.5% in annual interest up to 0.1 BTC, 1% on any BTC between 0.1% and 0.35%, and 0.1% for 0.35 BTC and greater.
 | Insurance | Celsius does not have an insurance policy. Fireblocks, Celsius' custodian, provides insurance on digital assets held by Celsius.[^][](https://support.celsius.network/hc/en-us/articles/360002174718-Does-Celsius-have-an-insurance-policy-) However, Celsius is also looking to implement an internal self-insurance feature. | Insurance with industry-renowned custodians - such as BitGo and LedgerVault - in the event of third-party hacks, theft, or loss of private keys | Use of LedgerVault for cold storage insurance against physical damage or destruction, and third-party theft [^](https://crypto.com/au/security) | BlockFi uses partner company Gemini as its custodial service, and Gemini has its own insurance for its deposits.
@@ -114,6 +116,7 @@ A comparison of Celsius and some of its major competitors can be seen below:
 ## Recommendations
 
 One service I would recommend to Celsius would be the Interest Flex Payment feature that BlockFi offers.
+[^]<!-- https://help.blockfi.com/hc/en-us/articles/360048863152-What-is-the-Interest-Flex-Payment-option- -->
 This service allows users to choose the currency their interest is paid in.
 As an example, if you hold BTC and USDC, but want to begin accumulating ETH, you can elect to have all interest paid in ETH.
 This allows users to easily diversify their assets without having to buy additional crypto.
@@ -123,6 +126,7 @@ Converting the earned interest into a single currency may require swapping a use
 The OpenOcean protocol may be the most appropriate for this task.
 
 OpenOcean is the world's first full aggregation protocol for crypto trading that sources liquidity from DeFi and CeFi markets and enables cross-chain swaps.
+[^]<!-- https://openocean.finance/ -->
 OpenOcean's routing algorithm finds the best prices from DEXes and CEXes and splits the routes to provide traders the best prices with low slippage and fast settlement.
 The product is free to use; OpenOcean users only need to pay the regular blockchain gas and exchange fees for the trades, which are charged by the exchanges and not OpenOcean.
 

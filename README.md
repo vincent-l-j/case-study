@@ -89,15 +89,9 @@ This has given rise to digital asset lending platforms (DALPs). Some of these DA
 
 ## Results
 
-* What has been the business impact of this company so far?
-
 Celsius aims to disrupt the traditional banking system and even has the slogan "Unbank yourself".
 [^2]
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 Celsius users can make unlimited withdrawals and not pay any withdrawal, transfer, transaction, or early termination fees. This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
-
-* How is your company performing relative to competitors in the same domain?
 A comparison of Celsius and some of its major competitors can be seen below:
 
 | | [Celsius](https://celsius.network/) | [Nexo](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/) | [Crypto.com](https://coincentral.com/celsius-vs-crypto-com/) | [BlockFi](https://blockfi.com/) |

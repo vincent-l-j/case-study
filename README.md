@@ -78,7 +78,7 @@ According to The World Bank in 2019, loans to the private sector by banks around
 
 The global crypto market cap recently reached $3 trillion, growing fivefold since November 2020, when it stood at $578 billion.
 Given that the first cryptocurrency, Bitcoin, was created just 12 years ago and traded at less than a cent at the time, the crypto market has exploded in the last decade.
-The Cambridge Center for Alternative Finance in 2020 estimates there to be at least 100 million cryptocurrency users in the world.
+The Cambridge Center for Alternative Finance in 2020 established that there are at least 100 million cryptocurrency users in the world.
 As cryptocurrencies gain adoption, more people will look towards earning interest on their crypto assets.
 This has given rise to digital asset lending platforms (DALPs). Some of these DALPs include Celsius' major competitors, such as:
 - [BlockFi](https://blockfi.com/)

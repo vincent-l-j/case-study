@@ -151,6 +151,11 @@ The product is free to use; OpenOcean users only need to pay the regular blockch
 * Present the report in a ReadME.md file in a Github repository. (10 points)
 * The report style showcases the writer's expertise and builds credibility. (10 points)
 -->
+## Conclusion
+
+Celsius is a great way to earn interest on your cryptocurrencies.
+Although some of its competitors have already launched credit cards and cryptocurrency trading on their platforms, Celsius is not far behind and is also in the process of implementing such products and services.
+With some of the highest interest rates amongst its competitors, Celsius remains a popular crypto lending and borrowing platform.
 
 ## References
 

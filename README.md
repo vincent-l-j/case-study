@@ -71,7 +71,7 @@ To ensure the security of its assets under management, Celsius Network uses Mult
 * Identify several major competitors. (10 points)
 -->
 
-## Landscape:
+## Landscape
 
 According to The World Bank in 2019, loans to the private sector by banks around the world accounted for 90% of global GDP, and interest rates on deposits in the world have not increased for almost 10 years.
 [^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->

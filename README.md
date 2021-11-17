@@ -85,8 +85,6 @@ This has given rise to digital asset lending platforms (DALPs). Some of these DA
 - [Nexo](https://nexo.io/?v=t3)
 - [Crypto.com](https://crypto.com/au/)
 
-<!-- Bitcoin was the first cryptocurrency and was only created in 2009. and was worth less than a cent. In 2011, its price reached $1 USD. Now, it trades at over $60,000 USD and many investors are expecting it to rise further. -->
-
 ## Results
 
 Celsius aims to disrupt the traditional banking system and even has the slogan "Unbank yourself".

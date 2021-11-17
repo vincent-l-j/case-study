@@ -117,11 +117,22 @@ A comparison of Celsius and some of its major competitors can be seen below:
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+One service I would recommend to Celsius would be the Interest Flex Payment feature that BlockFi offers.
+This service allows users to choose the currency their interest is paid in.
+As an example, if you hold BTC and USDC, but want to begin accumulating ETH, you can elect to have all interest paid in ETH.
+This allows users to easily diversify their assets without having to buy additional crypto.
+With higher interest rates than BlockFi, this may entice a portion of BlockFi users to start using Celsius if they are not already using it.
+
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
+Converting the earned interest into a single currency may require swapping a user's tokens on decentralised exchanged (DEX) and/or centralised exchanges (CEX).
+The OpenOcean protocol may be the most appropriate for this task.
 
 * Why are these technologies appropriate for your solution?
+OpenOcean is the world's first full aggregation protocol for crypto trading that sources liquidity from DeFi and CeFi markets and enables cross-chain swaps.
+OpenOcean's routing algorithm finds the best prices from DEXes and CEXes and splits the routes to provide traders the best prices with low slippage and fast settlement.
+The product is free to use; OpenOcean users only need to pay the regular blockchain gas and exchange fees for the trades, which are charged by the exchanges and not OpenOcean.
 
 <!--
 ### Requirements

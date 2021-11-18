@@ -118,7 +118,7 @@ A comparison of Celsius and some of its major competitors can be seen below:
 ## Recommendations
 
 One service I would recommend to Celsius would be the Interest Flex Payment feature that BlockFi offers.
-[^]<!-- https://help.blockfi.com/hc/en-us/articles/360048863152-What-is-the-Interest-Flex-Payment-option- -->
+[^40]
 This service allows users to choose the currency their interest is paid in.
 As an example, if you hold BTC and USDC, but want to begin accumulating ETH, you can elect to have all interest paid in ETH.
 This allows users to easily diversify their assets without having to buy additional crypto.
@@ -128,7 +128,7 @@ Converting the earned interest into a single currency may require swapping a use
 The OpenOcean protocol may be the most appropriate for this task.
 
 OpenOcean is the world's first full aggregation protocol for crypto trading that sources liquidity from DeFi and CeFi markets and enables cross-chain swaps.
-[^]<!-- https://openocean.finance/ -->
+[^41]
 OpenOcean's routing algorithm finds the best prices from DEXes and CEXes and splits the routes to provide traders the best prices with low slippage and fast settlement.
 The product is free to use; OpenOcean users only need to pay the regular blockchain gas and exchange fees for the trades, which are charged by the exchanges and not OpenOcean.
 
@@ -196,3 +196,5 @@ With some of the highest interest rates amongst its competitors, Celsius remains
 [^37]: [Nexo Referral Promo code](https://nexo.io/referral)
 [^38]: [Both Get $25 CRO Referral Program](https://help.crypto.com/en/articles/3124990-bg25-referral-program)
 [^39]: [BlockFi Promotions](https://blockfi.com/promotions/)
+[^40]: [What is the Interest Flex Payment option?](https://help.blockfi.com/hc/en-us/articles/360048863152-What-is-the-Interest-Flex-Payment-option)
+[^41]: [OpenOcean Docs](https://docs.openocean.finance/)

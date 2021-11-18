@@ -94,7 +94,8 @@ Some of these DALPs include Celsius' major competitors, such as:
 
 Celsius aims to disrupt the traditional banking system and even has the slogan "Unbank yourself".
 [^2]
-Celsius users can make unlimited withdrawals and not pay any withdrawal, transfer, transaction, or early termination fees. This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
+Celsius users can make unlimited withdrawals and not pay any withdrawal, transfer, transaction, or early termination fees.
+This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
 A comparison of Celsius and some of its major competitors can be seen below:
 
 | | [Celsius](https://celsius.network/) | [Nexo](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/) | [Crypto.com](https://coincentral.com/celsius-vs-crypto-com/) | [BlockFi](https://blockfi.com/) |

@@ -52,7 +52,9 @@ According to PointPay, the market for crypto loans, where bitcoin and stablecoin
 With over 1 million users and over $27.5 billion assets under management, Celsius' intended customers include both individual retail investors and institutional investors.
 [^7]
 
-Celsius offers competitively high interest rate to users, allowing over 10% interest on stable coins like USDC and USDT. Other companies like BlockFi and Nexo only offer less than 9% on stable coins. Other interest rates can be seen below:
+Celsius offers competitively high interest rate to users, allowing over 10% interest on stable coins like USDC and USDT.
+Other companies like BlockFi and Nexo only offer less than 9% on stable coins.
+Other interest rates can be seen below:
 ![](image/defi-rate-2021-11-13.png)
 [^]
 <!-- https://defirate.com/lend/ -->

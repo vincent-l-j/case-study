@@ -48,7 +48,7 @@ Celsius' main sources of income include:
 [^10]
 
 According to PointPay, the market for crypto loans, where bitcoin and stablecoins are pledged as collateral, is estimated at approximately $ 30-35 billion in 2021.
-[^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
+[^11]
 With over 1 million users and over $27.5 billion assets under management, Celsius' intended customers include both individual retail investors and institutional investors.
 [^7]
 
@@ -56,12 +56,10 @@ Celsius offers competitively high interest rate to users, allowing over 10% inte
 Other companies like BlockFi and Nexo only offer less than 9% on stable coins.
 Other interest rates can be seen below:
 ![](image/defi-rate-2021-11-13.png)
-[^]
-<!-- https://defirate.com/lend/ -->
+[^12]
 
 To ensure the security of its assets under management, Celsius Network uses Multi-Party Computation (MPC) through its custodian, Fireblocks, which also allows them to have insurance for funds stored in Hot wallets.
-[^]
-<!-- https://celsiushub.com/article/how-celsius-network-keeps-your-funds-safe-and-why-it-is-10x-better-than-any-other-company-in-crypto-1613407918502x661580604726575100 -->
+[^13]
 
 
 <!--
@@ -76,13 +74,13 @@ To ensure the security of its assets under management, Celsius Network uses Mult
 ## Landscape
 
 According to The World Bank in 2019, loans to the private sector by banks around the world accounted for 90% of global GDP, and interest rates on deposits in the world have not increased for almost 10 years.
-[^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
+[^11]
 
 The global crypto market cap recently reached $3 trillion, growing fivefold since November 2020, when it stood at $578 billion.
-[^] <!-- https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/ -->
+[^14]
 Given that the first cryptocurrency, Bitcoin, was created just 12 years ago and traded at less than a cent at the time, the crypto market has exploded in the last decade.
 The Cambridge Center for Alternative Finance in 2020 established that there are at least 100 million cryptocurrency users in the world.
-[^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
+[^11]
 As cryptocurrencies gain adoption, more people will look towards earning interest on their crypto assets.
 This has given rise to digital asset lending platforms (DALPs).
 Some of these DALPs include Celsius' major competitors, such as:
@@ -98,10 +96,10 @@ Celsius users can make unlimited withdrawals and not pay any withdrawal, transfe
 This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, which has notoriously high gas fees.
 A comparison of Celsius and some of its major competitors can be seen below:
 
-| | [Celsius](https://celsius.network/) | [Nexo](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/) | [Crypto.com](https://coincentral.com/celsius-vs-crypto-com/) | [BlockFi](https://blockfi.com/) |
+| | **Celsius**[^7] | **Nexo**[^15] | **Crypto.com**[^16] | **BlockFi**[^17] |
 | -- | -- | -- | -- | -- |
-| Withdrawal Fees | Free | Free | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function. | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, applicable withdrawal fees [^](https://blockfi.com/fees/) will be applied. (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
-| Interest rates (stablecoins, earn in kind) | 10.02% | [10%](https://nexo.io/earn-crypto) | 6% - 14% depending on loyalty tier and amount of CRO staked | With the exception of Tether at 9.5%, all stablecoins receive 9% interest on all deposits under 40,000, and 8% on any amount above |
+| Withdrawal Fees | Free | Free | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function.[^18] | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, applicable withdrawal fees  will be applied.[^19] (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
+| Interest rates (stablecoins, earn in kind) | 10.02%[^20] | 10%[^21] | 6% - 14% depending on loyalty tier and amount of CRO staked[^22] | With the exception of Tether at 9.5%, all stablecoins receive 9% interest on all deposits under 40,000, and 8% on any amount above[^23] |
 | Interest rates (BTC) | 6.20% (<= 1 BTC) and 3.51% (> 1 BTC) | 6% APY | 1.5% - 8.5% depending on loyalty tier and amount of CRO staked | 4.5% in annual interest up to 0.1 BTC, 1% on any BTC between 0.1% and 0.35%, and 0.1% for 0.35 BTC and greater.
 | Insurance | Celsius does not have an insurance policy. Fireblocks, Celsius' custodian, provides insurance on digital assets held by Celsius.[^][](https://support.celsius.network/hc/en-us/articles/360002174718-Does-Celsius-have-an-insurance-policy-) However, Celsius is also looking to implement an internal self-insurance feature. | Insurance with industry-renowned custodians - such as BitGo and LedgerVault - in the event of third-party hacks, theft, or loss of private keys | Use of LedgerVault for cold storage insurance against physical damage or destruction, and third-party theft [^](https://crypto.com/au/security) | BlockFi uses partner company Gemini as its custodial service, and Gemini has its own insurance for its deposits.
 | Cryptocurrency trading | beta version available to selected users | Yes | Yes | Yes
@@ -169,3 +167,16 @@ With some of the highest interest rates amongst its competitors, Celsius remains
 [^8]: [What We Do & How We Do It. The Celsius business model, explained](https://blog.celsius.network/what-we-do-how-we-do-it-9a82124f7159)
 [^9]: [Alex Mashinsky, Celsius CEO, interview:  Is Crypto Lending & Borrowing a good idea? Find out!](https://youtu.be/XUu3WcfssmE?t=579)
 [^10]: [Celsius invests over $200m in Bitcoin mining in North America (prnewswire.com)](https://www.prnewswire.com/news-releases/celsius-invests-over-200m-in-bitcoin-mining-in-north-america-301306009.html)
+[^11]: [The Market of Crypto Loans Is Rapidly Growing](https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing)
+[^12]: [Comparison of Crypto Lending Rates as at 2021-11-13](https://defirate.com/lend/)
+[^13]: [How Celsius Network keeps your funds safe and why it is 10X better than any other company in Crypto](https://celsiushub.com/article/how-celsius-network-keeps-your-funds-safe-and-why-it-is-10x-better-than-any-other-company-in-crypto-1613407918502x661580604726575100)
+[^14]: [Cryptocurrencies hit market cap of $3 trillion for the first time as Bitcoin and Ether reach record highs](https://fortune.com/2021/11/09/cryptocurrency-market-cap-3-trillion-bitcion-ether-shiba-inu/)
+[^15]: [Celsius vs Nexo | CoinCentral](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/)
+[^16]: [Celsius vs Crypto.com | CoinCentral](https://coincentral.com/celsius-vs-crypto-com/)
+[^17]: [BlockFi Review | CoinCentral](https://coincentral.com/blockfi-review/)
+[^18]: [What Fees May Occur on the Crypto.com Exchange?](https://help.crypto.com/en/articles/3511276-what-fees-may-occur-on-the-crypto-com-exchange)
+[^19]: [BlockFi Fees Schedule](https://blockfi.com/fees/)
+[^20]: [Earn Rewards on Your Crypto | Celsius](https://celsius.network/earn-rewards-on-your-crypto)
+[^21]: [Earn Crypto Interest | Nexo](https://nexo.io/earn-crypto)
+[^22]: [Crypto Earn | Crypto.com](https://crypto.com/au/earn)
+[^23]: [Crypto Interest Rates | BlockFi](https://blockfi.com/rates)

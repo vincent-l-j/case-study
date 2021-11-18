@@ -97,14 +97,14 @@ This includes withdrawal fees for ERC-20 tokens on the Ethereum blockchain, whic
 A comparison of Celsius and some of its major competitors can be seen below:
 
 | | **Celsius**[^7] | **Nexo**[^15] | **Crypto.com**[^16] | **BlockFi**[^17] |
-| -- | -- | -- | -- | -- |
-| Withdrawal Fees | Free | Free | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function.[^18] | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, applicable withdrawal fees  will be applied.[^19] (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
-| Interest rates (stablecoins, earn in kind) | 10.02%[^20] | 10%[^21] | 6% - 14% depending on loyalty tier and amount of CRO staked[^22] | With the exception of Tether at 9.5%, all stablecoins receive 9% interest on all deposits under 40,000, and 8% on any amount above[^23] |
-| Interest rates (BTC) | 6.20% (<= 1 BTC) and 3.51% (> 1 BTC) | 6% APY | 1.5% - 8.5% depending on loyalty tier and amount of CRO staked | 4.5% in annual interest up to 0.1 BTC, 1% on any BTC between 0.1% and 0.35%, and 0.1% for 0.35 BTC and greater.
-| Insurance | Celsius does not have an insurance policy. Fireblocks, Celsius' custodian, provides insurance on digital assets held by Celsius.[^][](https://support.celsius.network/hc/en-us/articles/360002174718-Does-Celsius-have-an-insurance-policy-) However, Celsius is also looking to implement an internal self-insurance feature. | Insurance with industry-renowned custodians - such as BitGo and LedgerVault - in the event of third-party hacks, theft, or loss of private keys | Use of LedgerVault for cold storage insurance against physical damage or destruction, and third-party theft [^](https://crypto.com/au/security) | BlockFi uses partner company Gemini as its custodial service, and Gemini has its own insurance for its deposits.
-| Cryptocurrency trading | beta version available to selected users | Yes | Yes | Yes
-| Credit Card | Not yet available | Yes | Yes | Yes
-| Promo deal | Earn $50 in BTC with your first transfer of $400 or more on Celsius. | Earn $25 in BTC with your first transfer of $100 or more on Nexo | Earn $25 USD worth of CRO after successfully reserving a Metal Crypto.com Visa Card (cheapest is $500 AUD) | Earn $15 in BTC with your first transfer of $100 or more on BlockFi
+| -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| Withdrawal Fees | Free[^7] | Free[^18] | Crypto.com charges a fee for all withdrawals that take place on-chain, but users can avoid these by using Crypto.com’s withdraw-to-app function.[^19] | One free crypto withdrawal per calendar month and one free stablecoin withdrawal per month. Each free withdrawal can only be applied to one currency each month. For each subsequent withdrawal request within that month, applicable withdrawal fees  will be applied.[^20] (stablecoins: $10 USD, Bitcoin: 0.00075 BTC)
+| Interest rates (stablecoins, earn in kind) | 10.02%[^21] | 10%[^18] | 6% - 14% depending on loyalty tier and amount of CRO staked[^22] | With the exception of Tether at 9.5%, all stablecoins receive 9% interest on all deposits under 40,000, and 8% on any amount above[^23] |
+| Interest rates (BTC) | 6.20% (<= 1 BTC) and 3.51% (> 1 BTC)[^21] | 6% APY[^18] | 1.5% - 8.5% depending on loyalty tier and amount of CRO staked[^22] | 4.5% (<= 0.1 BTC), 1% (0.1 - 0.35 BTC), and 0.1% (> 0.35 BTC)[^23]
+| Insurance | Celsius does not have an insurance policy. Fireblocks, Celsius' custodian, provides insurance on digital assets held by Celsius.[^24] However, Celsius is also looking to implement an internal self-insurance feature. | Insurance with industry-renowned custodians - such as BitGo and LedgerVault - in the event of third-party hacks, theft, or loss of private keys[^25] | Use of LedgerVault for cold storage insurance against physical damage or destruction, and third-party theft [^26] | BlockFi uses partner company Gemini as its custodial service, and Gemini has its own insurance for its deposits.[^27] |
+| Cryptocurrency trading | beta version available to selected users[^28] | Yes[^29] | Yes[^30] | Yes[^31] |
+| Credit Card | Not yet available[^32] | Yes[^33] | Yes[^34] | Yes[^35] |
+| Promo deal | Earn $50 in BTC with your first transfer of $400 or more on Celsius. | Earn $25 in BTC with your first transfer of $100 or more on Nexo | Earn $25 USD worth of CRO after successfully reserving a Metal Crypto.com Visa Card (cheapest is $500 AUD) | Earn $15 in BTC with your first transfer of $100 or more on BlockFi |
 
 <!--
 #### Recommendations (20 points)
@@ -174,9 +174,21 @@ With some of the highest interest rates amongst its competitors, Celsius remains
 [^15]: [Celsius vs Nexo | CoinCentral](https://coincentral.com/celsius-vs-nexo-comparing-two-top-crypto-interest-accounts/)
 [^16]: [Celsius vs Crypto.com | CoinCentral](https://coincentral.com/celsius-vs-crypto-com/)
 [^17]: [BlockFi Review | CoinCentral](https://coincentral.com/blockfi-review/)
-[^18]: [What Fees May Occur on the Crypto.com Exchange?](https://help.crypto.com/en/articles/3511276-what-fees-may-occur-on-the-crypto-com-exchange)
-[^19]: [BlockFi Fees Schedule](https://blockfi.com/fees/)
-[^20]: [Earn Rewards on Your Crypto | Celsius](https://celsius.network/earn-rewards-on-your-crypto)
-[^21]: [Earn Crypto Interest | Nexo](https://nexo.io/earn-crypto)
+[^18]: [Earn Crypto Interest | Nexo](https://nexo.io/earn-crypto)
+[^19]: [What Fees May Occur on the Crypto.com Exchange?](https://help.crypto.com/en/articles/3511276-what-fees-may-occur-on-the-crypto-com-exchange)
+[^20]: [BlockFi Fees Schedule](https://blockfi.com/fees/)
+[^21]: [Earn Rewards on Your Crypto | Celsius](https://celsius.network/earn-rewards-on-your-crypto)
 [^22]: [Crypto Earn | Crypto.com](https://crypto.com/au/earn)
 [^23]: [Crypto Interest Rates | BlockFi](https://blockfi.com/rates)
+[^24]: [Does Celsius have an insurance policy?](https://support.celsius.network/hc/en-us/articles/360002174718-Does-Celsius-have-an-insurance-policy-)
+[^25]: [Security and Insurance | Nexo](https://support.nexo.io/hc/en-us/articles/360017628093-Security-and-Insurance)
+[^26]: [Security - Industry-Leading Security Infrastructure | Crypto.com](https://crypto.com/au/security)
+[^27]: [What are the risks of holding my crypto at BlockFi? | BlockFi](https://help.blockfi.com/hc/en-us/articles/360048862572-What-are-the-risks-of-holding-my-crypto-at-BlockFi-)
+[^28]: [Swap Crypto | Celsius](https://celsius.network/swap-crypto)
+[^29]: [Nexo Exchange](https://nexo.io/exchange)
+[^30]: [Crypto.com Exchange](https://crypto.com/exchange)
+[^31]: [BlockFi Trading](https://blockfi.com/trading)
+[^32]: [Credit Card Waitlist](https://celsius.network/credit-card-waitlist)
+[^33]: [Nexo Card](https://nexo.io/nexo-card)
+[^34]: [Crypto.com Visa Card](https://crypto.com/au/cards)
+[^35]: [Bitcoin Credit Card | Visa Crypto Rewards Card | Earn 1.5%](https://blockfi.com/credit-card/)

@@ -86,9 +86,9 @@ The Cambridge Center for Alternative Finance in 2020 established that there are 
 As cryptocurrencies gain adoption, more people will look towards earning interest on their crypto assets.
 This has given rise to digital asset lending platforms (DALPs).
 Some of these DALPs include Celsius' major competitors, such as:
-- [BlockFi](https://blockfi.com/)
 - [Nexo](https://nexo.io/?v=t3)
 - [Crypto.com](https://crypto.com/au/)
+- [BlockFi](https://blockfi.com/)
 
 ## Results
 

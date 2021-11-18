@@ -84,7 +84,8 @@ Given that the first cryptocurrency, Bitcoin, was created just 12 years ago and 
 The Cambridge Center for Alternative Finance in 2020 established that there are at least 100 million cryptocurrency users in the world.
 [^] <!-- https://www.einnews.com/pr_news/538251053/the-market-of-crypto-loans-is-rapidly-growing -->
 As cryptocurrencies gain adoption, more people will look towards earning interest on their crypto assets.
-This has given rise to digital asset lending platforms (DALPs). Some of these DALPs include Celsius' major competitors, such as:
+This has given rise to digital asset lending platforms (DALPs).
+Some of these DALPs include Celsius' major competitors, such as:
 - [BlockFi](https://blockfi.com/)
 - [Nexo](https://nexo.io/?v=t3)
 - [Crypto.com](https://crypto.com/au/)

@@ -104,7 +104,7 @@ A comparison of Celsius and some of its major competitors can be seen below:
 | Insurance | Celsius does not have an insurance policy. Fireblocks, Celsius' custodian, provides insurance on digital assets held by Celsius.[^24] However, Celsius is also looking to implement an internal self-insurance feature. | Insurance with industry-renowned custodians - such as BitGo and LedgerVault - in the event of third-party hacks, theft, or loss of private keys[^25] | Use of LedgerVault for cold storage insurance against physical damage or destruction, and third-party theft [^26] | BlockFi uses partner company Gemini as its custodial service, and Gemini has its own insurance for its deposits.[^27] |
 | Cryptocurrency trading | beta version available to selected users[^28] | Yes[^29] | Yes[^30] | Yes[^31] |
 | Credit Card | Not yet available[^32] | Yes[^33] | Yes[^34] | Yes[^35] |
-| Promo deal | Earn $50 in BTC with your first transfer of $400 or more on Celsius. | Earn $25 in BTC with your first transfer of $100 or more on Nexo | Earn $25 USD worth of CRO after successfully reserving a Metal Crypto.com Visa Card (cheapest is $500 AUD) | Earn $15 in BTC with your first transfer of $100 or more on BlockFi |
+| Promo deal | Earn $50 in BTC with your first transfer of $400 or more on Celsius.[^36] | Earn $25 in BTC with your first transfer of $100 or more on Nexo[^37] | Earn $25 USD worth of CRO after successfully reserving a Metal Crypto.com Visa Card (cheapest is $500 AUD)[^38] | Earn $15 in BTC with your first transfer of $100 or more on BlockFi[^39] |
 
 <!--
 #### Recommendations (20 points)
@@ -192,3 +192,7 @@ With some of the highest interest rates amongst its competitors, Celsius remains
 [^33]: [Nexo Card](https://nexo.io/nexo-card)
 [^34]: [Crypto.com Visa Card](https://crypto.com/au/cards)
 [^35]: [Bitcoin Credit Card | Visa Crypto Rewards Card | Earn 1.5%](https://blockfi.com/credit-card/)
+[^36]: [Celsius Promo code $50 of BTC with first transfer of $400 USD or more](https://celsiusnetwork.app.link/19334565c2)
+[^37]: [Nexo Referral Promo code](https://nexo.io/referral)
+[^38]: [Both Get $25 CRO Referral Program](https://help.crypto.com/en/articles/3124990-bg25-referral-program)
+[^39]: [BlockFi Promotions](https://blockfi.com/promotions/)
